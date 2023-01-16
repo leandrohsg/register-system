@@ -3,6 +3,7 @@
 
 > Project status: In Progress (development)
 To run this project in your computer, please, type:
+:happy:
 
 ```
 node app.js
